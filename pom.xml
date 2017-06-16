@@ -40,7 +40,7 @@
 
     <build>
 	<sourceDirectory>src/main/java</sourceDirectory>
-        <finalName>ROOT</finalName>
+        <finalName>mvnlod</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
